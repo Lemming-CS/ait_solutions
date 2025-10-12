@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: cs50-finance
+    env: python
+    rootDir: finance
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "gunicorn app:app"
+    plan: free
