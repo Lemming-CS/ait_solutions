@@ -19,6 +19,6 @@ Features
 - Deployed online via Render
 
 Live Demo
-➡️ https://ait-solutions-2.onrender.com/
+➡️ https://lemming-cs50-finance.onrender.com
 
 Learned Flask routing, SQL queries, session management, API integration, input validation, and deploying a Python app to Render.
