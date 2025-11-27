@@ -18,7 +18,7 @@ Features
 - Persistent storage via SQLite
 - Deployed online via Render
 
-➡️ <a href="https://lemming-cs50-finance.onrender.com">Live Demo</a>
+➡️ <strong><a href="https://lemming-cs50-finance.onrender.com" style="font-size: 36px">Live Demo</a></strong>
 
 Learned Flask routing, SQL queries, session management, API integration, input validation, and deploying a Python app to Render.
 ![Login Page](screenshots/login.png)
